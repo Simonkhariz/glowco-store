@@ -36,7 +36,8 @@
       "100g",
       "200g"
     ],
-    "help": ""
+    "help": "",
+    "helpByCategory": {}
   },
   "option2": {
     "label": "Shade",
@@ -50,6 +51,7 @@
     "label": "Skin type",
     "plural": "Skin types",
     "short": "Skin type",
+    "heading": "Skin type: {value}",
     "browseTitle": "SHOP BY SKIN TYPE",
     "values": [
       "All skin types",
