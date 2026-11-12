@@ -1,0 +1,101 @@
+{
+  "key": "glowco",
+  "name": "GLOW.CO",
+  "kind": "online skincare and cosmetics store",
+  "title": "GLOW.CO | Skincare and Makeup That Suit Your Skin",
+  "description": "Cleansers, serums, moisturisers, sunscreen and makeup, chosen by skin type and delivered across Nigeria.",
+  "tagline": "Skincare and makeup that suit your skin, delivered across Nigeria.",
+  "hero": {
+    "title": "SKINCARE THAT SUITS YOUR SKIN",
+    "subtitle": "Cleansers, serums, moisturisers, sunscreen and makeup. Shop by skin type and build a routine that is easy to keep.",
+    "cta": "Shop Now",
+    "image": "/images/hero/hero.webp",
+    "cutout": false
+  },
+  "theme": {
+    "accent": "#3F5F4B",
+    "accentHover": "#527A60",
+    "accentInk": "#ffffff",
+    "surface": "#EFF3EE",
+    "card": "#F3F2EC",
+    "hero": "#F1F3EC"
+  },
+  "option1": {
+    "label": "Size",
+    "plural": "Sizes",
+    "none": "Standard",
+    "choices": [
+      "15ml",
+      "30ml",
+      "50ml",
+      "100ml",
+      "150ml",
+      "200ml",
+      "250ml",
+      "50g",
+      "100g",
+      "200g"
+    ],
+    "help": ""
+  },
+  "option2": {
+    "label": "Shade",
+    "plural": "Shades",
+    "none": "Default",
+    "swatch": true,
+    "placeholder": "e.g. Honey"
+  },
+  "style": {
+    "enabled": true,
+    "label": "Skin type",
+    "plural": "Skin types",
+    "short": "Skin type",
+    "browseTitle": "SHOP BY SKIN TYPE",
+    "values": [
+      "All skin types",
+      "Dry",
+      "Oily",
+      "Combination",
+      "Sensitive"
+    ],
+    "images": {
+      "all skin types": "/images/styles/all-skin-types.webp",
+      "dry": "/images/styles/dry.webp",
+      "oily": "/images/styles/oily.webp",
+      "combination": "/images/styles/combination.webp",
+      "sensitive": "/images/styles/sensitive.webp"
+    }
+  },
+  "specs": {
+    "label": "Product details",
+    "suggested": [
+      "Key ingredients",
+      "How to use",
+      "Skin type",
+      "Free from"
+    ]
+  },
+  "features": {
+    "warranty": false,
+    "heavyDelivery": false,
+    "ageCheck": false
+  },
+  "ageCheck": {
+    "minAge": 18,
+    "categories": []
+  },
+  "wording": {
+    "featured": "FEATURED",
+    "newArrivals": "NEW ARRIVALS",
+    "topSelling": "TOP SELLING",
+    "categoriesEyebrow": "Your Routine",
+    "categoriesTitle": "EXPLORE BY CATEGORY",
+    "categoriesCta": "Browse All Collections",
+    "emptyCart": "Explore our range and build a routine that suits your skin.",
+    "contactIntro": "Questions about an order, a product or a return? Reach us using the details below.",
+    "searchExampleShort": "serum",
+    "searchExampleLong": "sunscreen for oily skin",
+    "descriptionHint": "What it does, who it suits, how to use it…",
+    "categoryHint": "/category?cat=serums"
+  }
+}

@@ -1,0 +1,1423 @@
+{
+  "settings": {
+    "store_name": "GLOW.CO",
+    "store_contact_email": "hello@glowco.example",
+    "store_contact_phone": "+2348000000102",
+    "store_origin_address": "22 Isaac John Street, Ikeja GRA",
+    "store_origin_city": "Lagos",
+    "store_origin_state": "Lagos",
+    "default_product_rating": "4.6",
+    "storefront_brands": ""
+  },
+  "zones": [
+    {
+      "name": "Lagos",
+      "states": [
+        "Lagos"
+      ],
+      "fee": 2500,
+      "estimated_days": "1 to 2 days",
+      "items_included": 3,
+      "extra_item_fee": 300,
+      "heavy_item_fee": 0
+    },
+    {
+      "name": "South West",
+      "states": [
+        "Ogun",
+        "Oyo",
+        "Osun",
+        "Ondo",
+        "Ekiti"
+      ],
+      "fee": 3500,
+      "estimated_days": "2 to 3 days",
+      "items_included": 3,
+      "extra_item_fee": 400,
+      "heavy_item_fee": 0
+    },
+    {
+      "name": "Abuja and Port Harcourt",
+      "states": [
+        "FCT",
+        "Rivers"
+      ],
+      "fee": 4500,
+      "estimated_days": "2 to 4 days",
+      "items_included": 3,
+      "extra_item_fee": 500,
+      "heavy_item_fee": 0
+    },
+    {
+      "name": "Rest of Nigeria",
+      "states": [
+        "*"
+      ],
+      "fee": 6000,
+      "estimated_days": "3 to 6 days",
+      "items_included": 3,
+      "extra_item_fee": 600,
+      "heavy_item_fee": 0
+    }
+  ],
+  "promotions": [
+    {
+      "code": "WELCOME10",
+      "type": "percentage",
+      "value": 10,
+      "min_order": 0,
+      "max_discount": 10000,
+      "description": "10% off your first order",
+      "show_on_homepage": true
+    },
+    {
+      "code": "SAVE5K",
+      "type": "fixed",
+      "value": 5000,
+      "min_order": 50000,
+      "max_discount": null,
+      "description": "₦5,000 off orders from ₦50,000",
+      "show_on_homepage": false
+    },
+    {
+      "code": "GLOW15",
+      "type": "percentage",
+      "value": 15,
+      "min_order": 30000,
+      "max_discount": 8000,
+      "description": "15% off orders from ₦30,000",
+      "show_on_homepage": false
+    }
+  ],
+  "categories": [
+    {
+      "name": "Cleansers",
+      "slug": "cleansers",
+      "description": "Gentle washes that clean without leaving skin tight.",
+      "image": "cat-cleansers.webp"
+    },
+    {
+      "name": "Serums",
+      "slug": "serums",
+      "description": "Light serums for moisture, balance and calm.",
+      "image": "cat-serums.webp"
+    },
+    {
+      "name": "Moisturisers",
+      "slug": "moisturisers",
+      "description": "Creams and gels for every skin type.",
+      "image": "cat-moisturisers.webp"
+    },
+    {
+      "name": "Sunscreen",
+      "slug": "sunscreen",
+      "description": "Daily SPF 30 and SPF 50 that feels light.",
+      "image": "cat-sunscreen.webp"
+    },
+    {
+      "name": "Makeup",
+      "slug": "makeup",
+      "description": "Foundation, lips and powder in shades for deeper skin tones.",
+      "image": "cat-makeup.webp"
+    },
+    {
+      "name": "Body Care",
+      "slug": "body-care",
+      "description": "Butters, scrubs and oils for soft skin.",
+      "image": "cat-body-care.webp"
+    }
+  ],
+  "banners": [
+    {
+      "title": "SKINCARE THAT FEELS GOOD",
+      "subtitle": "Simple routines, honest ingredients and prices that make sense. Start with a serum your skin will like.",
+      "cta_text": "Shop serums",
+      "cta_url": "/category?cat=serums",
+      "image": "banner-1.webp"
+    },
+    {
+      "title": "SUN PROTECTION FOR EVERY DAY",
+      "subtitle": "Light SPF 30 and SPF 50 sunscreens with no white cast. Wear one every morning.",
+      "cta_text": "Shop sunscreen",
+      "cta_url": "/category?cat=sunscreen",
+      "image": "banner-2.webp"
+    },
+    {
+      "title": "SHADES MADE FOR YOU",
+      "subtitle": "Foundation, lipstick and powder in warm, deep shades. Find yours today.",
+      "cta_text": "Shop makeup",
+      "cta_url": "/category?cat=makeup",
+      "image": "banner-3.webp"
+    }
+  ],
+  "products": [
+    {
+      "name": "Soft Cloud Gel Cleanser",
+      "slug": "soft-cloud-gel-cleanser",
+      "category": "cleansers",
+      "description": "A light gel that foams gently and rinses off clean. It removes sweat and dust from the day without leaving your face tight. Good for morning and night.",
+      "price": 6500,
+      "original_price": null,
+      "style": "Combination",
+      "featured": true,
+      "flash_deal": false,
+      "rating_start": 4.7,
+      "units_sold": 162,
+      "warranty": null,
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "Key ingredients",
+          "value": "Glycerin, cucumber extract"
+        },
+        {
+          "name": "How to use",
+          "value": "Massage onto damp face, then rinse"
+        },
+        {
+          "name": "Skin type",
+          "value": "Combination"
+        },
+        {
+          "name": "Free from",
+          "value": "Alcohol, added fragrance"
+        },
+        {
+          "name": "Texture",
+          "value": "Light gel"
+        }
+      ],
+      "images": [
+        "p-soft-cloud-gel-cleanser-1.webp",
+        "p-soft-cloud-gel-cleanser-2.webp"
+      ],
+      "variants": [
+        {
+          "option1": "100ml",
+          "option2": "",
+          "hex": "#000000",
+          "price": null,
+          "stock": 40
+        },
+        {
+          "option1": "200ml",
+          "option2": "",
+          "hex": "#000000",
+          "price": 10500,
+          "stock": 22
+        }
+      ]
+    },
+    {
+      "name": "Oat Milk Cream Cleanser",
+      "slug": "oat-milk-cream-cleanser",
+      "category": "cleansers",
+      "description": "A soft cream cleanser made with oat. It cleans without stripping and leaves skin feeling soft. A kind choice for dry days and harmattan season.",
+      "price": 8500,
+      "original_price": null,
+      "style": "Dry",
+      "featured": false,
+      "flash_deal": false,
+      "rating_start": null,
+      "units_sold": 74,
+      "warranty": null,
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "Key ingredients",
+          "value": "Oat extract, shea butter"
+        },
+        {
+          "name": "How to use",
+          "value": "Smooth over dry face, wipe or rinse"
+        },
+        {
+          "name": "Skin type",
+          "value": "Dry"
+        },
+        {
+          "name": "Free from",
+          "value": "Soap, added colour"
+        },
+        {
+          "name": "Texture",
+          "value": "Soft cream"
+        }
+      ],
+      "images": [
+        "p-oat-milk-cream-cleanser-1.webp"
+      ],
+      "variants": [
+        {
+          "option1": "150ml",
+          "option2": "",
+          "hex": "#000000",
+          "price": null,
+          "stock": 30
+        },
+        {
+          "option1": "250ml",
+          "option2": "",
+          "hex": "#000000",
+          "price": 12500,
+          "stock": 0
+        }
+      ]
+    },
+    {
+      "name": "Melt Away Cleansing Balm",
+      "slug": "melt-away-cleansing-balm",
+      "category": "cleansers",
+      "description": "A solid balm that turns to oil on your skin and lifts off sunscreen and makeup. Rinse with warm water. It comes in a small tin that fits any bag.",
+      "price": 9000,
+      "original_price": 11000,
+      "style": "Sensitive",
+      "featured": false,
+      "flash_deal": false,
+      "rating_start": null,
+      "units_sold": 58,
+      "warranty": null,
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "Key ingredients",
+          "value": "Sunflower oil, vitamin E"
+        },
+        {
+          "name": "How to use",
+          "value": "Warm between fingers, massage on, rinse"
+        },
+        {
+          "name": "Skin type",
+          "value": "Sensitive"
+        },
+        {
+          "name": "Free from",
+          "value": "Mineral oil, parabens"
+        },
+        {
+          "name": "Texture",
+          "value": "Solid balm"
+        }
+      ],
+      "images": [
+        "p-melt-away-cleansing-balm-1.webp"
+      ],
+      "variants": [
+        {
+          "option1": "50g",
+          "option2": "",
+          "hex": "#000000",
+          "price": null,
+          "stock": 18
+        },
+        {
+          "option1": "100g",
+          "option2": "",
+          "hex": "#000000",
+          "price": 14000,
+          "stock": 9
+        }
+      ]
+    },
+    {
+      "name": "Dew Drop Hydrating Serum",
+      "slug": "dew-drop-hydrating-serum",
+      "category": "serums",
+      "description": "A watery serum that adds moisture to your skin. It sinks in fast and sits well under cream or makeup. Use it morning and night.",
+      "price": 9000,
+      "original_price": null,
+      "style": "All skin types",
+      "featured": true,
+      "flash_deal": false,
+      "rating_start": 4.8,
+      "units_sold": 175,
+      "warranty": null,
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "Key ingredients",
+          "value": "Hyaluronic acid, aloe"
+        },
+        {
+          "name": "How to use",
+          "value": "Press 3 drops onto clean face"
+        },
+        {
+          "name": "Skin type",
+          "value": "All skin types"
+        },
+        {
+          "name": "Free from",
+          "value": "Oil, heavy fragrance"
+        },
+        {
+          "name": "Texture",
+          "value": "Watery gel"
+        }
+      ],
+      "images": [
+        "p-dew-drop-hydrating-serum-1.webp",
+        "p-dew-drop-hydrating-serum-2.webp"
+      ],
+      "variants": [
+        {
+          "option1": "30ml",
+          "option2": "",
+          "hex": "#000000",
+          "price": null,
+          "stock": 45
+        },
+        {
+          "option1": "50ml",
+          "option2": "",
+          "hex": "#000000",
+          "price": 13500,
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "name": "Niacinamide Balance Serum",
+      "slug": "niacinamide-balance-serum",
+      "category": "serums",
+      "description": "A light serum with niacinamide and zinc for skin that gets shiny by midday. It feels fresh and dries quickly. Use it before your moisturiser.",
+      "price": 12000,
+      "original_price": 15000,
+      "style": "Oily",
+      "featured": false,
+      "flash_deal": true,
+      "rating_start": 4.5,
+      "units_sold": 121,
+      "warranty": null,
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "Key ingredients",
+          "value": "Niacinamide, zinc"
+        },
+        {
+          "name": "How to use",
+          "value": "Apply 2 to 3 drops after cleansing"
+        },
+        {
+          "name": "Skin type",
+          "value": "Oily"
+        },
+        {
+          "name": "Free from",
+          "value": "Oil, alcohol"
+        },
+        {
+          "name": "Texture",
+          "value": "Thin liquid"
+        }
+      ],
+      "images": [
+        "p-niacinamide-balance-serum-1.webp"
+      ],
+      "variants": [
+        {
+          "option1": "15ml",
+          "option2": "",
+          "hex": "#000000",
+          "price": 9000,
+          "stock": 35
+        },
+        {
+          "option1": "30ml",
+          "option2": "",
+          "hex": "#000000",
+          "price": null,
+          "stock": 28
+        }
+      ]
+    },
+    {
+      "name": "Rose Petal Calm Serum",
+      "slug": "rose-petal-calm-serum",
+      "category": "serums",
+      "description": "A gentle serum made with rose water and oat. It feels cool on the skin and has a light, soft scent. Made for skin that reacts easily.",
+      "price": 15000,
+      "original_price": null,
+      "style": "Sensitive",
+      "featured": false,
+      "flash_deal": false,
+      "rating_start": null,
+      "units_sold": 47,
+      "warranty": null,
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "Key ingredients",
+          "value": "Rose water, oat extract"
+        },
+        {
+          "name": "How to use",
+          "value": "Pat onto face and neck"
+        },
+        {
+          "name": "Skin type",
+          "value": "Sensitive"
+        },
+        {
+          "name": "Free from",
+          "value": "Colourants, essential oils"
+        },
+        {
+          "name": "Texture",
+          "value": "Light gel"
+        }
+      ],
+      "images": [
+        "p-rose-petal-calm-serum-1.webp"
+      ],
+      "variants": [
+        {
+          "option1": "30ml",
+          "option2": "",
+          "hex": "#000000",
+          "price": null,
+          "stock": 26
+        },
+        {
+          "option1": "50ml",
+          "option2": "",
+          "hex": "#000000",
+          "price": 21000,
+          "stock": 12
+        }
+      ]
+    },
+    {
+      "name": "Vitamin C Daily Serum",
+      "slug": "vitamin-c-daily-serum",
+      "category": "serums",
+      "description": "A daily serum with vitamin C and vitamin E. It leaves skin feeling smooth and fresh. Store it somewhere cool and keep the cap tight.",
+      "price": 24000,
+      "original_price": 28000,
+      "style": "Combination",
+      "featured": false,
+      "flash_deal": false,
+      "rating_start": 4.6,
+      "units_sold": 96,
+      "warranty": null,
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "Key ingredients",
+          "value": "Vitamin C, vitamin E"
+        },
+        {
+          "name": "How to use",
+          "value": "Apply 3 drops each morning"
+        },
+        {
+          "name": "Skin type",
+          "value": "Combination"
+        },
+        {
+          "name": "Free from",
+          "value": "Parabens, mineral oil"
+        },
+        {
+          "name": "Texture",
+          "value": "Thin serum"
+        }
+      ],
+      "images": [
+        "p-vitamin-c-daily-serum-1.webp"
+      ],
+      "variants": [
+        {
+          "option1": "15ml",
+          "option2": "",
+          "hex": "#000000",
+          "price": 18000,
+          "stock": 30
+        },
+        {
+          "option1": "30ml",
+          "option2": "",
+          "hex": "#000000",
+          "price": null,
+          "stock": 3
+        },
+        {
+          "option1": "50ml",
+          "option2": "",
+          "hex": "#000000",
+          "price": 34000,
+          "stock": 10
+        }
+      ]
+    },
+    {
+      "name": "Shea Whip Face Cream",
+      "slug": "shea-whip-face-cream",
+      "category": "moisturisers",
+      "description": "A rich whipped cream made with Nigerian shea butter. It keeps dry skin soft all day. A little goes a long way.",
+      "price": 8000,
+      "original_price": null,
+      "style": "Dry",
+      "featured": true,
+      "flash_deal": false,
+      "rating_start": 4.7,
+      "units_sold": 148,
+      "warranty": null,
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "Key ingredients",
+          "value": "Shea butter, squalane"
+        },
+        {
+          "name": "How to use",
+          "value": "Smooth on after serum"
+        },
+        {
+          "name": "Skin type",
+          "value": "Dry"
+        },
+        {
+          "name": "Free from",
+          "value": "Fragrance, alcohol"
+        },
+        {
+          "name": "Texture",
+          "value": "Rich whipped cream"
+        }
+      ],
+      "images": [
+        "p-shea-whip-face-cream-1.webp",
+        "p-shea-whip-face-cream-2.webp"
+      ],
+      "variants": [
+        {
+          "option1": "50ml",
+          "option2": "",
+          "hex": "#000000",
+          "price": null,
+          "stock": 38
+        },
+        {
+          "option1": "100ml",
+          "option2": "",
+          "hex": "#000000",
+          "price": 13000,
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "name": "Water Gel Light Moisturiser",
+      "slug": "water-gel-light-moisturiser",
+      "category": "moisturisers",
+      "description": "A bouncy gel moisturiser that feels like nothing on the skin. It gives moisture without any greasy feel. Good in hot, humid weather.",
+      "price": 11000,
+      "original_price": null,
+      "style": "Oily",
+      "featured": false,
+      "flash_deal": false,
+      "rating_start": null,
+      "units_sold": 83,
+      "warranty": null,
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "Key ingredients",
+          "value": "Aloe, glycerin"
+        },
+        {
+          "name": "How to use",
+          "value": "Apply a thin layer morning and night"
+        },
+        {
+          "name": "Skin type",
+          "value": "Oily"
+        },
+        {
+          "name": "Free from",
+          "value": "Oil, heavy wax"
+        },
+        {
+          "name": "Texture",
+          "value": "Bouncy gel"
+        }
+      ],
+      "images": [
+        "p-water-gel-light-moisturiser-1.webp"
+      ],
+      "variants": [
+        {
+          "option1": "50ml",
+          "option2": "",
+          "hex": "#000000",
+          "price": null,
+          "stock": 33
+        },
+        {
+          "option1": "100ml",
+          "option2": "",
+          "hex": "#000000",
+          "price": 17000,
+          "stock": 14
+        }
+      ]
+    },
+    {
+      "name": "Barrier Care Day Cream",
+      "slug": "barrier-care-day-cream",
+      "category": "moisturisers",
+      "description": "A plain, soft day cream with ceramides and panthenol. It keeps moisture in and sits nicely under sunscreen. No scent at all.",
+      "price": 20000,
+      "original_price": 25000,
+      "style": "Sensitive",
+      "featured": false,
+      "flash_deal": true,
+      "rating_start": 4.4,
+      "units_sold": 39,
+      "warranty": null,
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "Key ingredients",
+          "value": "Ceramides, panthenol"
+        },
+        {
+          "name": "How to use",
+          "value": "Apply after serum each morning"
+        },
+        {
+          "name": "Skin type",
+          "value": "Sensitive"
+        },
+        {
+          "name": "Free from",
+          "value": "Fragrance, essential oils"
+        },
+        {
+          "name": "Texture",
+          "value": "Soft cream"
+        }
+      ],
+      "images": [
+        "p-barrier-care-day-cream-1.webp"
+      ],
+      "variants": [
+        {
+          "option1": "50ml",
+          "option2": "",
+          "hex": "#000000",
+          "price": null,
+          "stock": 24
+        },
+        {
+          "option1": "100ml",
+          "option2": "",
+          "hex": "#000000",
+          "price": null,
+          "stock": 11
+        }
+      ]
+    },
+    {
+      "name": "Daily Shield SPF 50 Fluid",
+      "slug": "daily-shield-spf-50-fluid",
+      "category": "sunscreen",
+      "description": "A thin sunscreen fluid with SPF 50. It protects your skin from the sun and leaves no white cast. Wear it every morning, even on cloudy days.",
+      "price": 9500,
+      "original_price": null,
+      "style": "All skin types",
+      "featured": true,
+      "flash_deal": false,
+      "rating_start": 4.8,
+      "units_sold": 180,
+      "warranty": null,
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "Key ingredients",
+          "value": "Zinc oxide, vitamin E"
+        },
+        {
+          "name": "How to use",
+          "value": "Apply two finger lengths before going out"
+        },
+        {
+          "name": "Skin type",
+          "value": "All skin types"
+        },
+        {
+          "name": "Free from",
+          "value": "Fragrance, white cast"
+        },
+        {
+          "name": "Texture",
+          "value": "Thin fluid"
+        }
+      ],
+      "images": [
+        "p-daily-shield-spf-50-fluid-1.webp",
+        "p-daily-shield-spf-50-fluid-2.webp"
+      ],
+      "variants": [
+        {
+          "option1": "50ml",
+          "option2": "",
+          "hex": "#000000",
+          "price": null,
+          "stock": 50
+        },
+        {
+          "option1": "100ml",
+          "option2": "",
+          "hex": "#000000",
+          "price": 15000,
+          "stock": 25
+        }
+      ]
+    },
+    {
+      "name": "Sheer Mineral SPF 30 Lotion",
+      "slug": "sheer-mineral-spf-30-lotion",
+      "category": "sunscreen",
+      "description": "A mineral sunscreen lotion with SPF 30 for sensitive skin. It spreads easily and blends in without a grey finish. Reapply after swimming.",
+      "price": 7500,
+      "original_price": null,
+      "style": "Sensitive",
+      "featured": false,
+      "flash_deal": false,
+      "rating_start": null,
+      "units_sold": 67,
+      "warranty": null,
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "Key ingredients",
+          "value": "Zinc oxide, aloe"
+        },
+        {
+          "name": "How to use",
+          "value": "Apply generously, reapply every 2 hours"
+        },
+        {
+          "name": "Skin type",
+          "value": "Sensitive"
+        },
+        {
+          "name": "Free from",
+          "value": "Fragrance, alcohol"
+        },
+        {
+          "name": "Texture",
+          "value": "Light lotion"
+        }
+      ],
+      "images": [
+        "p-sheer-mineral-spf-30-lotion-1.webp"
+      ],
+      "variants": [
+        {
+          "option1": "50ml",
+          "option2": "",
+          "hex": "#000000",
+          "price": null,
+          "stock": 31
+        },
+        {
+          "option1": "100ml",
+          "option2": "",
+          "hex": "#000000",
+          "price": 11500,
+          "stock": 16
+        }
+      ]
+    },
+    {
+      "name": "Matte Sun Gel SPF 50",
+      "slug": "matte-sun-gel-spf-50",
+      "category": "sunscreen",
+      "description": "A clear gel sunscreen with SPF 50 and a matte finish. It feels fresh and does not shine. Wear it on its own or under makeup.",
+      "price": 16000,
+      "original_price": 20000,
+      "style": "Oily",
+      "featured": false,
+      "flash_deal": true,
+      "rating_start": null,
+      "units_sold": 102,
+      "warranty": null,
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "Key ingredients",
+          "value": "Zinc oxide, green tea extract"
+        },
+        {
+          "name": "How to use",
+          "value": "Apply before going out, reapply midday"
+        },
+        {
+          "name": "Skin type",
+          "value": "Oily"
+        },
+        {
+          "name": "Free from",
+          "value": "Oil, fragrance"
+        },
+        {
+          "name": "Texture",
+          "value": "Clear gel"
+        }
+      ],
+      "images": [
+        "p-matte-sun-gel-spf-50-1.webp"
+      ],
+      "variants": [
+        {
+          "option1": "50ml",
+          "option2": "",
+          "hex": "#000000",
+          "price": null,
+          "stock": 27
+        },
+        {
+          "option1": "100ml",
+          "option2": "",
+          "hex": "#000000",
+          "price": 22000,
+          "stock": 13
+        }
+      ]
+    },
+    {
+      "name": "Satin Skin Foundation",
+      "slug": "satin-skin-foundation",
+      "category": "makeup",
+      "description": "A soft liquid foundation with a natural satin finish. It covers evenly and builds up slowly. Five shades made for deeper skin tones.",
+      "price": 12000,
+      "original_price": null,
+      "style": "Combination",
+      "featured": true,
+      "flash_deal": false,
+      "rating_start": 4.7,
+      "units_sold": 134,
+      "warranty": null,
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "Key ingredients",
+          "value": "Glycerin, vitamin E"
+        },
+        {
+          "name": "How to use",
+          "value": "Blend with sponge or brush"
+        },
+        {
+          "name": "Skin type",
+          "value": "Combination"
+        },
+        {
+          "name": "Free from",
+          "value": "Fragrance, parabens"
+        },
+        {
+          "name": "Texture",
+          "value": "Liquid, satin finish"
+        }
+      ],
+      "images": [
+        "p-satin-skin-foundation-1.webp",
+        "p-satin-skin-foundation-2.webp"
+      ],
+      "variants": [
+        {
+          "option1": "30ml",
+          "option2": "Ivory",
+          "hex": "#F1D9C0",
+          "price": null,
+          "stock": 20
+        },
+        {
+          "option1": "30ml",
+          "option2": "Honey",
+          "hex": "#D9A66F",
+          "price": null,
+          "stock": 30
+        },
+        {
+          "option1": "30ml",
+          "option2": "Caramel",
+          "hex": "#B97A45",
+          "price": null,
+          "stock": 28
+        },
+        {
+          "option1": "30ml",
+          "option2": "Chestnut",
+          "hex": "#8A5530",
+          "price": null,
+          "stock": 15
+        },
+        {
+          "option1": "30ml",
+          "option2": "Espresso",
+          "hex": "#5B3A22",
+          "price": null,
+          "stock": 4
+        }
+      ]
+    },
+    {
+      "name": "Velvet Matte Lipstick",
+      "slug": "velvet-matte-lipstick",
+      "category": "makeup",
+      "description": "A creamy lipstick that dries to a soft matte. The colour stays put through lunch. It glides on without tugging.",
+      "price": 4500,
+      "original_price": null,
+      "style": "All skin types",
+      "featured": true,
+      "flash_deal": false,
+      "rating_start": 4.8,
+      "units_sold": 170,
+      "warranty": null,
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "Key ingredients",
+          "value": "Shea butter, jojoba oil"
+        },
+        {
+          "name": "How to use",
+          "value": "Apply from the centre outwards"
+        },
+        {
+          "name": "Skin type",
+          "value": "All skin types"
+        },
+        {
+          "name": "Free from",
+          "value": "Fragrance, parabens"
+        },
+        {
+          "name": "Texture",
+          "value": "Soft matte"
+        }
+      ],
+      "images": [
+        "p-velvet-matte-lipstick-1.webp",
+        "p-velvet-matte-lipstick-2.webp"
+      ],
+      "variants": [
+        {
+          "option1": "",
+          "option2": "Ruby",
+          "hex": "#9B1B30",
+          "price": null,
+          "stock": 35
+        },
+        {
+          "option1": "",
+          "option2": "Rosewood",
+          "hex": "#B5626B",
+          "price": null,
+          "stock": 28
+        },
+        {
+          "option1": "",
+          "option2": "Nude",
+          "hex": "#C79A84",
+          "price": null,
+          "stock": 40
+        },
+        {
+          "option1": "",
+          "option2": "Berry",
+          "hex": "#7A2248",
+          "price": null,
+          "stock": 0
+        },
+        {
+          "option1": "",
+          "option2": "Coral",
+          "hex": "#F0745B",
+          "price": null,
+          "stock": 22
+        }
+      ]
+    },
+    {
+      "name": "Silk Finish Loose Powder",
+      "slug": "silk-finish-loose-powder",
+      "category": "makeup",
+      "description": "A fine setting powder that keeps shine away. It is light and does not look cakey. Comes with a soft puff.",
+      "price": 9000,
+      "original_price": 11000,
+      "style": "Oily",
+      "featured": false,
+      "flash_deal": false,
+      "rating_start": null,
+      "units_sold": 64,
+      "warranty": null,
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "Key ingredients",
+          "value": "Rice starch, silica"
+        },
+        {
+          "name": "How to use",
+          "value": "Dust on with a brush or puff"
+        },
+        {
+          "name": "Skin type",
+          "value": "Oily"
+        },
+        {
+          "name": "Free from",
+          "value": "Talc, fragrance"
+        },
+        {
+          "name": "Texture",
+          "value": "Fine loose powder"
+        }
+      ],
+      "images": [
+        "p-silk-finish-loose-powder-1.webp"
+      ],
+      "variants": [
+        {
+          "option1": "",
+          "option2": "Ivory",
+          "hex": "#F1D9C0",
+          "price": null,
+          "stock": 20
+        },
+        {
+          "option1": "",
+          "option2": "Honey",
+          "hex": "#D9A66F",
+          "price": null,
+          "stock": 25
+        },
+        {
+          "option1": "",
+          "option2": "Caramel",
+          "hex": "#B97A45",
+          "price": null,
+          "stock": 18
+        },
+        {
+          "option1": "",
+          "option2": "Chestnut",
+          "hex": "#8A5530",
+          "price": null,
+          "stock": 12
+        }
+      ]
+    },
+    {
+      "name": "Plump Up Lip Gloss",
+      "slug": "plump-up-lip-gloss",
+      "category": "makeup",
+      "description": "A shiny gloss that is not sticky. It adds a soft wash of colour and keeps lips moist. Wear it alone or over lipstick.",
+      "price": 5500,
+      "original_price": null,
+      "style": "All skin types",
+      "featured": false,
+      "flash_deal": false,
+      "rating_start": null,
+      "units_sold": 88,
+      "warranty": null,
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "Key ingredients",
+          "value": "Jojoba oil, vitamin E"
+        },
+        {
+          "name": "How to use",
+          "value": "Swipe on from the wand"
+        },
+        {
+          "name": "Skin type",
+          "value": "All skin types"
+        },
+        {
+          "name": "Free from",
+          "value": "Mineral oil, fragrance"
+        },
+        {
+          "name": "Texture",
+          "value": "Glossy, not sticky"
+        }
+      ],
+      "images": [
+        "p-plump-up-lip-gloss-1.webp"
+      ],
+      "variants": [
+        {
+          "option1": "",
+          "option2": "Rosewood",
+          "hex": "#B5626B",
+          "price": null,
+          "stock": 30
+        },
+        {
+          "option1": "",
+          "option2": "Nude",
+          "hex": "#C79A84",
+          "price": null,
+          "stock": 27
+        },
+        {
+          "option1": "",
+          "option2": "Coral",
+          "hex": "#F0745B",
+          "price": null,
+          "stock": 24
+        }
+      ]
+    },
+    {
+      "name": "Shea and Cocoa Body Butter",
+      "slug": "shea-cocoa-body-butter",
+      "category": "body-care",
+      "description": "A thick body butter made with shea and cocoa butter. It softens rough elbows, knees and heels. It smells lightly of chocolate.",
+      "price": 6500,
+      "original_price": null,
+      "style": "Dry",
+      "featured": false,
+      "flash_deal": false,
+      "rating_start": null,
+      "units_sold": 143,
+      "warranty": null,
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "Key ingredients",
+          "value": "Shea butter, cocoa butter"
+        },
+        {
+          "name": "How to use",
+          "value": "Rub in after bathing"
+        },
+        {
+          "name": "Skin type",
+          "value": "Dry"
+        },
+        {
+          "name": "Free from",
+          "value": "Parabens, mineral oil"
+        },
+        {
+          "name": "Texture",
+          "value": "Thick butter"
+        }
+      ],
+      "images": [
+        "p-shea-cocoa-body-butter-1.webp"
+      ],
+      "variants": [
+        {
+          "option1": "100g",
+          "option2": "",
+          "hex": "#000000",
+          "price": null,
+          "stock": 36
+        },
+        {
+          "option1": "200g",
+          "option2": "",
+          "hex": "#000000",
+          "price": 9500,
+          "stock": 22
+        }
+      ]
+    },
+    {
+      "name": "Coconut Sugar Body Scrub",
+      "slug": "coconut-sugar-body-scrub",
+      "category": "body-care",
+      "description": "A body scrub made with sugar grains and coconut oil. It buffs away dry, rough patches and leaves you smooth. Use it once or twice a week.",
+      "price": 5000,
+      "original_price": null,
+      "style": "All skin types",
+      "featured": false,
+      "flash_deal": false,
+      "rating_start": null,
+      "units_sold": 91,
+      "warranty": null,
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "Key ingredients",
+          "value": "Sugar, coconut oil"
+        },
+        {
+          "name": "How to use",
+          "value": "Rub on wet skin, then rinse"
+        },
+        {
+          "name": "Skin type",
+          "value": "All skin types"
+        },
+        {
+          "name": "Free from",
+          "value": "Plastic beads, parabens"
+        },
+        {
+          "name": "Texture",
+          "value": "Grainy scrub"
+        }
+      ],
+      "images": [
+        "p-coconut-sugar-body-scrub-1.webp"
+      ],
+      "variants": [
+        {
+          "option1": "100g",
+          "option2": "",
+          "hex": "#000000",
+          "price": null,
+          "stock": 29
+        },
+        {
+          "option1": "200g",
+          "option2": "",
+          "hex": "#000000",
+          "price": 8000,
+          "stock": 15
+        }
+      ]
+    },
+    {
+      "name": "Silk Body Oil",
+      "slug": "silk-body-oil",
+      "category": "body-care",
+      "description": "A light body oil that soaks in quickly. Pat it on damp skin after a shower for a soft glow. It has a warm, gentle scent.",
+      "price": 15000,
+      "original_price": 18000,
+      "style": "Dry",
+      "featured": false,
+      "flash_deal": false,
+      "rating_start": 4.4,
+      "units_sold": 52,
+      "warranty": null,
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "Key ingredients",
+          "value": "Sweet almond oil, marula oil"
+        },
+        {
+          "name": "How to use",
+          "value": "Pat on damp skin"
+        },
+        {
+          "name": "Skin type",
+          "value": "Dry"
+        },
+        {
+          "name": "Free from",
+          "value": "Mineral oil, parabens"
+        },
+        {
+          "name": "Texture",
+          "value": "Light oil"
+        }
+      ],
+      "images": [
+        "p-silk-body-oil-1.webp"
+      ],
+      "variants": [
+        {
+          "option1": "100ml",
+          "option2": "",
+          "hex": "#000000",
+          "price": null,
+          "stock": 2
+        },
+        {
+          "option1": "200ml",
+          "option2": "",
+          "hex": "#000000",
+          "price": 24000,
+          "stock": 14
+        }
+      ]
+    }
+  ],
+  "reviews": [
+    {
+      "product": "soft-cloud-gel-cleanser",
+      "name": "Amaka E.",
+      "rating": 5,
+      "title": "Gentle and clean",
+      "body": "My face feels fresh after, not tight. I use it morning and night and the bottle has lasted weeks."
+    },
+    {
+      "product": "dew-drop-hydrating-serum",
+      "name": "Zainab M.",
+      "rating": 5,
+      "title": "Sinks in fast",
+      "body": "Goes in quickly and my makeup sits well on top. I have bought the bigger bottle now."
+    },
+    {
+      "product": "daily-shield-spf-50-fluid",
+      "name": "Tunde B.",
+      "rating": 4,
+      "title": "No white cast",
+      "body": "Finally a sunscreen that does not leave a grey face. Slightly pricey but I wear it daily."
+    },
+    {
+      "product": "satin-skin-foundation",
+      "name": "Ngozi A.",
+      "rating": 5,
+      "title": "Matched my skin",
+      "body": "Caramel was perfect for me. Even coverage and it did not go patchy in the heat."
+    },
+    {
+      "product": "velvet-matte-lipstick",
+      "name": "Funke O.",
+      "rating": 5,
+      "title": "Colour stays",
+      "body": "Rosewood lasted through a long wedding. A bit drying if you skip lip balm first."
+    },
+    {
+      "product": "shea-cocoa-body-butter",
+      "name": "Ibrahim S.",
+      "rating": 4,
+      "title": "Smells lovely",
+      "body": "Thick and soft on my heels. Takes a minute to rub in but worth it."
+    },
+    {
+      "product": "oat-milk-cream-cleanser",
+      "name": "Chiamaka N.",
+      "rating": 4,
+      "title": "Good for harmattan",
+      "body": "My skin was flaking in December and this stopped the tight feeling. Wish the big size was back in stock."
+    },
+    {
+      "product": "matte-sun-gel-spf-50",
+      "name": "Segun A.",
+      "rating": 3,
+      "title": "Okay, not amazing",
+      "body": "Feels fresh and does not shine, but it pilled a little under my moisturiser. Better on its own."
+    },
+    {
+      "product": "niacinamide-balance-serum",
+      "name": "Blessing U.",
+      "rating": 5,
+      "title": "Less shine by noon",
+      "body": "I notice my forehead is less oily by afternoon. Dropper is easy to use."
+    },
+    {
+      "product": "silk-finish-loose-powder",
+      "name": "Halima Y.",
+      "rating": 4,
+      "title": "Light and soft",
+      "body": "Sets my foundation and does not look cakey. The puff is a nice touch."
+    }
+  ]
+}
