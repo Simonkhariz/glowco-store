@@ -9,7 +9,7 @@
     "title": "SKINCARE THAT SUITS YOUR SKIN",
     "subtitle": "Cleansers, serums, moisturisers, sunscreen and makeup. Shop by skin type and build a routine that is easy to keep.",
     "cta": "Shop Now",
-    "image": "/images/hero/hero.webp",
+    "image": "https://images.unsplash.com/photo-1601049676869-702ea24cfd58?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MTJ8fHNraW5jYXJlJTIwcHJvZHVjdHN8ZW58MXwwfHx8MTc5NDQ1NTk5M3ww&ixlib=rb-4.1.0&w=1600&h=900&fit=crop&crop=entropy&q=80&fm=jpg",
     "cutout": false
   },
   "theme": {
@@ -61,11 +61,11 @@
       "Sensitive"
     ],
     "images": {
-      "all skin types": "/images/styles/all-skin-types.webp",
-      "dry": "/images/styles/dry.webp",
-      "oily": "/images/styles/oily.webp",
-      "combination": "/images/styles/combination.webp",
-      "sensitive": "/images/styles/sensitive.webp"
+      "all skin types": "https://images.unsplash.com/photo-1519699047748-de8e457a634e?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MXx8YmxhY2slMjB3b21hbiUyMHNraW5jYXJlJTIwZmFjZXxlbnwxfDJ8fHwxNzk0NDU2MDA5fDA&ixlib=rb-4.1.0&w=900&h=900&fit=crop&crop=entropy&q=80&fm=jpg",
+      "dry": "https://images.unsplash.com/photo-1648203276014-20f97ba1f817?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8Nnx8c2tpbmNhcmUlMjBwcm9kdWN0c3xlbnwxfDB8fHwxNzk0NDU1OTkzfDA&ixlib=rb-4.1.0&w=900&h=900&fit=crop&crop=faces&q=80&fm=jpg",
+      "oily": "https://images.unsplash.com/photo-1591726291258-0a153edc2cb2?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8Nnx8YmxhY2slMjB3b21hbiUyMHNraW5jYXJlJTIwZmFjZXxlbnwxfDJ8fHwxNzk0NDU2MDA5fDA&ixlib=rb-4.1.0&w=900&h=900&fit=crop&crop=entropy&q=80&fm=jpg",
+      "combination": "https://images.unsplash.com/photo-1623852881187-a3790f3b29ae?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8NXx8YmxhY2slMjB3b21hbiUyMHNraW5jYXJlJTIwZmFjZXxlbnwxfDJ8fHwxNzk0NDU2MDA5fDA&ixlib=rb-4.1.0&w=900&h=900&fit=crop&crop=entropy&q=80&fm=jpg",
+      "sensitive": "https://images.unsplash.com/photo-1615453261246-4b32e335a4a0?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8N3x8YmxhY2slMjB3b21hbiUyMHNraW5jYXJlJTIwZmFjZXxlbnwxfDJ8fHwxNzk0NDU2MDA5fDA&ixlib=rb-4.1.0&w=900&h=900&fit=crop&crop=entropy&q=80&fm=jpg"
     }
   },
   "specs": {

@@ -94,37 +94,37 @@
       "name": "Cleansers",
       "slug": "cleansers",
       "description": "Gentle washes that clean without leaving skin tight.",
-      "image": "cat-cleansers.webp"
+      "image": "https://images.unsplash.com/photo-1631729371254-42c2892f0e6e?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8Mnx8c2tpbmNhcmUlMjBib3R0bGUlMjBwcm9kdWN0fGVufDF8fHx8MTc5NDQ1NTg4NXww&ixlib=rb-4.1.0&w=900&h=900&fit=crop&crop=entropy&q=80&fm=jpg"
     },
     {
       "name": "Serums",
       "slug": "serums",
       "description": "Light serums for moisture, balance and calm.",
-      "image": "cat-serums.webp"
+      "image": "https://images.unsplash.com/photo-1671492247768-74f54774dbb2?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MjB8fGZhY2UlMjBzZXJ1bSUyMGRyb3BwZXIlMjBib3R0bGV8ZW58MXx8fHwxNzk0NDU1OTAzfDA&ixlib=rb-4.1.0&w=900&h=900&fit=crop&crop=entropy&q=80&fm=jpg"
     },
     {
       "name": "Moisturisers",
       "slug": "moisturisers",
       "description": "Creams and gels for every skin type.",
-      "image": "cat-moisturisers.webp"
+      "image": "https://images.unsplash.com/photo-1785581778868-79100f7fe56c?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MTR8fGZhY2UlMjBjcmVhbSUyMGphcnxlbnwxfHx8fDE3OTQ0NTU5MTl8MA&ixlib=rb-4.1.0&w=900&h=900&fit=crop&crop=entropy&q=80&fm=jpg"
     },
     {
       "name": "Sunscreen",
       "slug": "sunscreen",
       "description": "Daily SPF 30 and SPF 50 that feels light.",
-      "image": "cat-sunscreen.webp"
+      "image": "https://images.unsplash.com/photo-1721913395350-bc7b99cf0169?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MjZ8fHN1bnNjcmVlbiUyMHR1YmUlMjBsb3Rpb258ZW58MXx8fHwxNzk0NDU1OTM3fDA&ixlib=rb-4.1.0&w=900&h=900&fit=crop&crop=entropy&q=80&fm=jpg"
     },
     {
       "name": "Makeup",
       "slug": "makeup",
       "description": "Foundation, lips and powder in shades for deeper skin tones.",
-      "image": "cat-makeup.webp"
+      "image": "https://images.unsplash.com/photo-1571875257727-256c39da42af?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MjB8fGZvdW5kYXRpb24lMjBtYWtldXAlMjBib3R0bGV8ZW58MXx8fHwxNzk0NDU1OTcxfDA&ixlib=rb-4.1.0&w=900&h=900&fit=crop&crop=entropy&q=80&fm=jpg"
     },
     {
       "name": "Body Care",
       "slug": "body-care",
       "description": "Butters, scrubs and oils for soft skin.",
-      "image": "cat-body-care.webp"
+      "image": "https://images.unsplash.com/photo-1739950839930-ef45c078f316?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MTF8fHNraW5jYXJlJTIwYm90dGxlJTIwcHJvZHVjdHxlbnwxfHx8fDE3OTQ0NTU4ODV8MA&ixlib=rb-4.1.0&w=900&h=900&fit=crop&crop=entropy&q=80&fm=jpg"
     }
   ],
   "banners": [
@@ -133,21 +133,21 @@
       "subtitle": "Simple routines, honest ingredients and prices that make sense. Start with a serum your skin will like.",
       "cta_text": "Shop serums",
       "cta_url": "/category?cat=serums",
-      "image": "banner-1.webp"
+      "image": "https://images.unsplash.com/photo-1583209814683-c023dd293cc6?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8Mnx8c2tpbmNhcmUlMjBwcm9kdWN0c3xlbnwxfDB8fHwxNzk0NDU1OTkzfDA&ixlib=rb-4.1.0&w=1600&h=900&fit=crop&crop=entropy&q=80&fm=jpg"
     },
     {
       "title": "SUN PROTECTION FOR EVERY DAY",
       "subtitle": "Light SPF 30 and SPF 50 sunscreens with no white cast. Wear one every morning.",
       "cta_text": "Shop sunscreen",
       "cta_url": "/category?cat=sunscreen",
-      "image": "banner-2.webp"
+      "image": "https://images.unsplash.com/photo-1689163642429-279f59082ab5?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MTB8fHN1bnNjcmVlbiUyMHR1YmUlMjBsb3Rpb258ZW58MXx8fHwxNzk0NDU1OTM3fDA&ixlib=rb-4.1.0&w=1600&h=900&fit=crop&crop=faces&q=80&fm=jpg"
     },
     {
       "title": "SHADES MADE FOR YOU",
       "subtitle": "Foundation, lipstick and powder in warm, deep shades. Find yours today.",
       "cta_text": "Shop makeup",
       "cta_url": "/category?cat=makeup",
-      "image": "banner-3.webp"
+      "image": "https://images.unsplash.com/photo-1602558618194-3037081afe0d?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MjB8fGxpcHN0aWNrJTIwbWFrZXVwfGVufDF8fHx8MTc5NDQ1NTk1NHww&ixlib=rb-4.1.0&w=1600&h=900&fit=crop&crop=center&q=80&fm=jpg"
     }
   ],
   "products": [
@@ -188,8 +188,8 @@
         }
       ],
       "images": [
-        "p-soft-cloud-gel-cleanser-1.webp",
-        "p-soft-cloud-gel-cleanser-2.webp"
+        "https://images.unsplash.com/photo-1748639320154-6ba118bccc74?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MXx8ZmFjaWFsJTIwY2xlYW5zZXIlMjBib3R0bGV8ZW58MXx8fHwxNzk0NTI2NzA1fDA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg",
+        "https://images.unsplash.com/photo-1699885725103-2bf0a3c38cbc?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8OHx8c2tpbmNhcmUlMjBib3R0bGUlMjBwcm9kdWN0fGVufDF8fHx8MTc5NDQ1NTg4NXww&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ],
       "variants": [
         {
@@ -245,7 +245,7 @@
         }
       ],
       "images": [
-        "p-oat-milk-cream-cleanser-1.webp"
+        "https://images.unsplash.com/photo-1686831889330-dd7d9ff32515?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8N3x8c2tpbmNhcmUlMjBib3R0bGUlMjBwcm9kdWN0fGVufDF8fHx8MTc5NDQ1NTg4NXww&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ],
       "variants": [
         {
@@ -301,7 +301,7 @@
         }
       ],
       "images": [
-        "p-melt-away-cleansing-balm-1.webp"
+        "https://images.unsplash.com/photo-1763503839418-2b45c3d7a3c3?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MXx8ZmFjZSUyMGNyZWFtJTIwamFyfGVufDF8fHx8MTc5NDQ1NTkxOXww&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ],
       "variants": [
         {
@@ -357,8 +357,8 @@
         }
       ],
       "images": [
-        "p-dew-drop-hydrating-serum-1.webp",
-        "p-dew-drop-hydrating-serum-2.webp"
+        "https://images.unsplash.com/photo-1710410815589-dd83514104d0?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8Mnx8ZmFjZSUyMHNlcnVtJTIwZHJvcHBlciUyMGJvdHRsZXxlbnwxfHx8fDE3OTQ0NTU5MDN8MA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg",
+        "https://images.unsplash.com/photo-1679394270597-e90694d70350?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8NHx8ZmFjZSUyMHNlcnVtJTIwZHJvcHBlciUyMGJvdHRsZXxlbnwxfHx8fDE3OTQ0NTU5MDN8MA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ],
       "variants": [
         {
@@ -414,7 +414,7 @@
         }
       ],
       "images": [
-        "p-niacinamide-balance-serum-1.webp"
+        "https://images.unsplash.com/photo-1777730611102-766b6e5ec3cd?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MjZ8fGZhY2UlMjBzZXJ1bSUyMGRyb3BwZXIlMjBib3R0bGV8ZW58MXx8fHwxNzk0NDU1OTAzfDA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ],
       "variants": [
         {
@@ -470,7 +470,7 @@
         }
       ],
       "images": [
-        "p-rose-petal-calm-serum-1.webp"
+        "https://images.unsplash.com/photo-1741896135512-084b251887f7?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8OXx8ZmFjZSUyMHNlcnVtJTIwZHJvcHBlciUyMGJvdHRsZXxlbnwxfHx8fDE3OTQ0NTU5MDN8MA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ],
       "variants": [
         {
@@ -526,7 +526,7 @@
         }
       ],
       "images": [
-        "p-vitamin-c-daily-serum-1.webp"
+        "https://images.unsplash.com/photo-1713768704571-6aeb0d0e5105?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MXx8ZmFjZSUyMHNlcnVtJTIwZHJvcHBlciUyMGJvdHRsZXxlbnwxfHx8fDE3OTQ0NTU5MDN8MA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ],
       "variants": [
         {
@@ -589,8 +589,8 @@
         }
       ],
       "images": [
-        "p-shea-whip-face-cream-1.webp",
-        "p-shea-whip-face-cream-2.webp"
+        "https://images.unsplash.com/photo-1763503836825-97f5450d155a?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8Mnx8ZmFjZSUyMGNyZWFtJTIwamFyfGVufDF8fHx8MTc5NDQ1NTkxOXww&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg",
+        "https://images.unsplash.com/photo-1772191530787-b9546da02fbc?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8OXx8ZmFjZSUyMGNyZWFtJTIwamFyfGVufDF8fHx8MTc5NDQ1NTkxOXww&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ],
       "variants": [
         {
@@ -646,7 +646,7 @@
         }
       ],
       "images": [
-        "p-water-gel-light-moisturiser-1.webp"
+        "https://images.unsplash.com/photo-1667242003558-e42942d2b911?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8NXx8ZmFjZSUyMGNyZWFtJTIwamFyfGVufDF8fHx8MTc5NDQ1NTkxOXww&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ],
       "variants": [
         {
@@ -702,7 +702,7 @@
         }
       ],
       "images": [
-        "p-barrier-care-day-cream-1.webp"
+        "https://images.unsplash.com/photo-1638609927040-8a7e97cd9d6a?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8Mnx8bW9pc3R1cml6ZXIlMjBjcmVhbSUyMHR1YmV8ZW58MXx8fHwxNzk0NTI3MTk4fDA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ],
       "variants": [
         {
@@ -758,8 +758,8 @@
         }
       ],
       "images": [
-        "p-daily-shield-spf-50-fluid-1.webp",
-        "p-daily-shield-spf-50-fluid-2.webp"
+        "https://images.unsplash.com/photo-1594055103006-7871176f1a7e?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MXx8c3Vuc2NyZWVuJTIwdHViZSUyMGxvdGlvbnxlbnwxfHx8fDE3OTQ0NTU5Mzd8MA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg",
+        "https://images.unsplash.com/photo-1712168044214-f5a272c23a5b?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MTR8fHN1bnNjcmVlbiUyMHR1YmUlMjBsb3Rpb258ZW58MXx8fHwxNzk0NDU1OTM3fDA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ],
       "variants": [
         {
@@ -815,7 +815,7 @@
         }
       ],
       "images": [
-        "p-sheer-mineral-spf-30-lotion-1.webp"
+        "https://images.unsplash.com/photo-1611246937963-bfd36070ac90?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MjN8fHN1bnNjcmVlbiUyMHR1YmUlMjBsb3Rpb258ZW58MXx8fHwxNzk0NDU1OTM3fDA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ],
       "variants": [
         {
@@ -871,7 +871,7 @@
         }
       ],
       "images": [
-        "p-matte-sun-gel-spf-50-1.webp"
+        "https://images.unsplash.com/photo-1673350963913-d937b5968e93?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MTh8fHN1bnNjcmVlbiUyMHR1YmUlMjBsb3Rpb258ZW58MXx8fHwxNzk0NDU1OTM3fDA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ],
       "variants": [
         {
@@ -927,8 +927,8 @@
         }
       ],
       "images": [
-        "p-satin-skin-foundation-1.webp",
-        "p-satin-skin-foundation-2.webp"
+        "https://images.unsplash.com/photo-1623143445418-40c192fa3d11?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8NXx8Zm91bmRhdGlvbiUyMG1ha2V1cCUyMGJvdHRsZXxlbnwxfHx8fDE3OTQ0NTU5NzF8MA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg",
+        "https://images.unsplash.com/photo-1654973433534-1238e06f6b38?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8Nnx8Zm91bmRhdGlvbiUyMG1ha2V1cCUyMGJvdHRsZXxlbnwxfHx8fDE3OTQ0NTU5NzF8MA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ],
       "variants": [
         {
@@ -1005,8 +1005,8 @@
         }
       ],
       "images": [
-        "p-velvet-matte-lipstick-1.webp",
-        "p-velvet-matte-lipstick-2.webp"
+        "https://images.unsplash.com/photo-1626895872564-b691b6877b83?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8Mnx8bGlwc3RpY2slMjBtYWtldXB8ZW58MXx8fHwxNzk0NDU1OTU0fDA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg",
+        "https://images.unsplash.com/photo-1625093742435-6fa192b6fb10?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8M3x8bGlwc3RpY2slMjBtYWtldXB8ZW58MXx8fHwxNzk0NDU1OTU0fDA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ],
       "variants": [
         {
@@ -1083,7 +1083,7 @@
         }
       ],
       "images": [
-        "p-silk-finish-loose-powder-1.webp"
+        "https://images.unsplash.com/photo-1515688594390-b649af70d282?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MXx8bG9vc2UlMjBwb3dkZXIlMjBtYWtldXB8ZW58MXx8fHwxNzk0NTI3MzY2fDA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ],
       "variants": [
         {
@@ -1153,7 +1153,7 @@
         }
       ],
       "images": [
-        "p-plump-up-lip-gloss-1.webp"
+        "https://images.unsplash.com/photo-1760860992755-c432351d47e9?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MTV8fGxpcCUyMGdsb3NzJTIwdHViZXxlbnwxfHx8fDE3OTQ1Mjc2Mzh8MA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ],
       "variants": [
         {
@@ -1216,7 +1216,7 @@
         }
       ],
       "images": [
-        "p-shea-cocoa-body-butter-1.webp"
+        "https://images.unsplash.com/photo-1777694037031-18460ee6c940?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8Mnx8Ym9keSUyMGJ1dHRlciUyMHNjcnViJTIwamFyfGVufDF8fHx8MTc5NDQ1NTk4OHww&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ],
       "variants": [
         {
@@ -1272,7 +1272,7 @@
         }
       ],
       "images": [
-        "p-coconut-sugar-body-scrub-1.webp"
+        "https://images.unsplash.com/photo-1764184661156-e8803cef9b67?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8Mjl8fGZhY2UlMjBjcmVhbSUyMGphcnxlbnwxfHx8fDE3OTQ0NTU5MTl8MA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ],
       "variants": [
         {
@@ -1328,7 +1328,7 @@
         }
       ],
       "images": [
-        "p-silk-body-oil-1.webp"
+        "https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8M3x8ZmFjZSUyMHNlcnVtJTIwZHJvcHBlciUyMGJvdHRsZXxlbnwxfHx8fDE3OTQ0NTU5MDN8MA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ],
       "variants": [
         {
